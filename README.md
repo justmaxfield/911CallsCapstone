@@ -1,2 +1,2 @@
 # 911CallsCapstone
-Uses 911 Dataset from Kaggle to demonstrate a directed data analysis walkthrough
+Uses 911 Dataset from Kaggle to demonstrate a basic directed data analysis and visualization walkthrough
